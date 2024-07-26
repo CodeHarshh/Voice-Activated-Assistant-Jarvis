@@ -1,4 +1,4 @@
-Here's the updated `README.md` with the LinkedIn and GitHub commands removed:
+Here's the updated `README.md` with the additional website features included:
 
 ---
 
@@ -11,7 +11,7 @@ Here's the updated `README.md` with the LinkedIn and GitHub commands removed:
 ## Features 🌟
 
 - **Voice Activation**: Simply say "Hey Jarvis" to activate and start issuing commands.
-- **Website Navigation**: Open popular sites like Google and YouTube with ease.
+- **Website Navigation**: Open popular sites like Google, YouTube, Twitter, Reddit, LinkedIn, and Wikipedia with ease.
 - **Latest News**: Stay informed with the latest headlines at your command.
 - **Music Playback**: Enjoy music from your custom library with a simple voice command.
 
@@ -19,7 +19,7 @@ Here's the updated `README.md` with the LinkedIn and GitHub commands removed:
 
 1. **Activate Jarvis**: Begin by saying "Hey Jarvis". Jarvis will greet you with "Yes, Professor" and start listening for your commands.
 2. **Issue Commands**:
-   - **Open Websites**: Say "Open Google" or "Open YouTube" to visit these sites.
+   - **Open Websites**: Say "Open Google", "Open YouTube", "Open Twitter", "Open Reddit", or "Open Wikipedia" to visit these sites.
    - **Fetch News**: Say "News" to get the latest headlines delivered right to your ears.
    - **Play Music**: Say "Play [song name]" to listen to a song from the music library.
    - **Goodbye**: To exit the listening mode, say "Ok Goodbye Jarvis".
@@ -80,4 +80,4 @@ For any questions or feedback, feel free to reach out to Harsh Kumar:
 
 ---
 
-This version omits the LinkedIn and GitHub commands and maintains a clean, engaging format.
+This version includes commands for Twitter, Reddit, and Wikipedia, enhancing the functionality of Jarvis.
