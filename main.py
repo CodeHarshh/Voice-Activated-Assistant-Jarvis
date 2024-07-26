@@ -60,6 +60,12 @@ if __name__ == "__main__":
                         webbrowser.open("https://google.com")
                     elif "open youtube" in command.lower():
                         webbrowser.open("https://youtube.com")
+                    elif "open twitter" in command.lower():
+                        webbrowser.open("https://twitter.com")
+                    elif "open reddit" in command.lower():
+                        webbrowser.open("https://www.reddit.com")
+                    elif "open wikipedia" in command.lower():
+                        webbrowser.open("https://www.wikipedia.org")
                     elif "open linkedin" in command.lower():
                         webbrowser.open("https://www.linkedin.com/feed/")
                     elif "open github" in command.lower():
